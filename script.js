@@ -18,6 +18,10 @@ console.log(fruits);
 
 
 //Exercise 2
+/**************************************
+Correcteur: Yannick GOUGUIA
 
+Meri de revoir cet exercice
+**************************************/
 const moreFruits = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
 console.log(moreFruits[1][1][0]);
